@@ -1,5 +1,4 @@
 import javax.swing.*;
-
 import java.awt.Choice;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
